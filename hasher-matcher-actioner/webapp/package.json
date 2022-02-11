@@ -19,7 +19,7 @@
     "date-fns": "^2.22.1",
     "dompurify": "^2.2.9",
     "eslint": "^7.29.0",
-    "node-sass": "^6.0.1",
+    "node-sass": "^7.0.0",
     "prettier": "^2.3.2",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
